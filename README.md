@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mahfoozalamcse
 - 👀 I’m interested in Coding and problem solving
 - 🌱 I’m currently learning DATA STRUCTURE, JAVA, PYTHON, HTML, CSS, JAVA SCRIPT, REACT JS 
-- 💞️ I’m looking for collaborate to people, Work top MNC and passionate to problem sovling make easy and user friendly product 
+- 💞️ I’m looking for collaborate to people, Work top MNC and passionate in problem sovling make easy and user friendly product 
 - 📫 How to reach me-- My github account mahfoozalamcse 
 
 <!---
