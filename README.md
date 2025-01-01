@@ -7,7 +7,7 @@
 
 I'm a passionate software developer with a keen interest in open-source projects and community contributions. I love exploring new technologies and applying them to solve real-world problems.
 
-- 🌱 I’m currently learning advanced topics in machine learning and AI.
+- 🌱 I’m currently learning advanced topics in Data structure andalgorithms.
 - 👯 I’m looking to collaborate on exciting open-source projects.
 - 🤔 I’m looking for help with full-stack development best practices.
 - 💬 Ask me about Python, JavaScript, and cloud computing.
