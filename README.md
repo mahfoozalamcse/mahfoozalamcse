@@ -16,10 +16,10 @@ I'm a passionate software developer with a keen interest in open-source projects
 
 ## Skills
 
-- **Languages:** Python, JavaScript, Java, C++
-- **Frameworks:** Django, Flask, React, Node.js
-- **Databases:** MySQL, PostgreSQL, MongoDB
-- **Tools:** Git, Docker, Kubernetes, AWS, Azure
+- **Languages:** Java, JavaScript 
+- **Frameworks:**  React, Node.js
+- **Databases:** Sql, PostgreSQL, MongoDB
+- **Tools:** Git, github, VsCode, AWS
 
 ## GitHub Stats
 
