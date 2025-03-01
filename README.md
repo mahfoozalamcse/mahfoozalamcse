@@ -39,7 +39,7 @@ A brief description of your great project. Include technologies used, key featur
 
 ## Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/mahfoozalamcse/)
+- [LinkedIn]((https://www.linkedin.com/in/mahfooz-alam-116b2a2b7))
 - [Twitter](https://twitter.com/mahfoozalamcse)
 - [Personal Website](https://mahfoozalamcse.com)
 
