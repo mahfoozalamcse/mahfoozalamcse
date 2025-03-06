@@ -28,9 +28,11 @@ I'm a passionate software developer with a keen interest in open-source projects
 - **[Awesome Project](#)** - A brief description of your awesome project. Technologies used: **React, Node.js, MongoDB**.
 - **[Another Great Project](#)** - A brief description of another great project. Technologies used: **Java, Spring Boot, PostgreSQL**.
 
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahfoozalamcse)  
+### 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahfooz-alam-116b2a2b7)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-%23FFA116.svg?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/u/mahfoozalamcse/)  
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mahfoozalamcse)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23ff69b4.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mahfoozalamcse.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23ff69b4.svg?style=for-the-badge&logo=google-chrome&logoColor=white)](https://mahfoozalamcse.com)  
+
 
 Thanks for visiting my profile! Feel free to reach out if you want to connect or collaborate on a project. 🚀
