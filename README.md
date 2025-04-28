@@ -25,7 +25,7 @@ I'm a passionate software developer with a keen interest in open-source projects
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahfoozalamcse&layout=compact&theme=radical)
 
 ### 🔥 Projects
-- **[[Awesome Project](https://github.com/mahfoozalamcse/EduQuiz)](#)** - A brief description of your awesome project. Technologies used: **React, Node.js, MongoDB**.
+- **[[EduQuiz Project1](https://github.com/mahfoozalamcse/EduQuiz)](#)** - A brief description of your awesome project. Technologies used: **React, Node.js, MongoDB**.
 - **[Another Great Project](#)** - A brief description of another great project. Technologies used: **Java, Spring Boot, PostgreSQL**.
 
 ### 🌐 Connect with Me  
