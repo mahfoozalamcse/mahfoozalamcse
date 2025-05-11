@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=mahfoozalamcse&color=blue)
 
 ### 🚀 About Me
-I'm a passionate software developer with a keen interest in open-source projects and community contributions. I love exploring new technologies and applying them to solve real-world problems. 
+I'm a passionate software developer with a keen interest in open-source projects and community contributions. I love exploring new technologies and applying them to solve real-world problems.  
 
 - 🌱 I’m currently learning **advanced Data Structures and Algorithms**.
 - 👯 I’m looking to collaborate on **exciting open-source projects**.
