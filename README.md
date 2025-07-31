@@ -16,7 +16,7 @@ I'm a passionate software developer with a keen interest in open-source projects
 - **Languages:** Java, JavaScript
 - **Frameworks:** React, Node.js
 - **Databases:** SQL, PostgreSQL, MongoDB
-- **Tools & Platforms:** Git, GitHub, VS Code, AWS
+- **Tools & Platforms:** Git, GitHub, VS Code
 
 ### 📊 GitHub Stats
 ![Mahfooz's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahfoozalamcse&show_icons=true&theme=radical)
