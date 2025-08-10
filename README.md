@@ -8,6 +8,7 @@ I'm a passionate software developer with a keen interest in open-source projects
 - 🌱 I’m currently learning **advanced Data Structures and Algorithms**.
 - 👯 I’m looking to collaborate on **exciting open-source projects**.
 - 🤔 I’m seeking help with **full-stack development best practices**.
+- 
 - 💬 Ask me about **Java, JavaScript, and Cloud Computing**.
 - 📫 Reach me at: **amahfooz1007@gmail.com**
 - ⚡ Fun fact: I enjoy **hiking and photography** during my free time.
