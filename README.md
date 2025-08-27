@@ -14,6 +14,7 @@ I'm a passionate software developer with a keen interest in open-source projects
 - ⚡ Fun fact: I enjoy **hiking and photography** during my free time.
 
 ### 🛠️ Skills
+
 - **Languages:** Java, JavaScript
 - **Frameworks:** React, Node.js
 - **Databases:** SQL, PostgreSQL, MongoDB
