@@ -29,7 +29,7 @@ I'm a passionate software developer with a keen interest in open-source projects
 
 ### 🔥 Projects
 - **[[EduQuiz Project1](https://github.com/mahfoozalamcse/EduQuiz)](#)** - A brief description of your awesome project. Technologies used: **React, Node.js, MongoDB**.
-- **[Another Great Project](#)** - A brief description of another great project. Technologies used: **Java, Spring Boot, PostgreSQL**.
+- **[QuickNotes](#https://quicknotes-lf76.onrender.com)** - A brief description of another great project. Technologies used: **React, Node.js, MongoDB**.
 
 ### 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahfooz-alam-116b2a2b7)  
