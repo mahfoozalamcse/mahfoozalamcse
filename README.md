@@ -30,7 +30,7 @@ I'm a passionate software developer with a keen interest in open-source projects
 ### 🔥 Projects
 - **[[ProductsStore Project1](https://productsstore-uh46.onrender.com)](#)** - A brief description of your awesome project. Technologies used: **React, Node.js, MongoDB**.
 - **[[ByteLogic Project2](https://github.com/mahfoozalamcse/ByteLogic/tree/main)](#)** - A brief description of your awesome project. Technologies used: **React, Node.js, MongoDB**.
-- **[[QuickNotes](https://github.com/mahfoozalamcse/QuickNotes)](#)** - A brief description of another great project. Technologies used: **React, Node.js, MongoDB**.
+- **[[QuickNotes Project3](https://github.com/mahfoozalamcse/QuickNotes)](#)** - A brief description of another great project. Technologies used: **React, Node.js, MongoDB**.
 
 ### 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahfooz-alam-116b2a2b7)  
