@@ -20,13 +20,6 @@ I'm a passionate software developer with a keen interest in open-source projects
 - **Databases:** SQL, PostgreSQL, MongoDB
 - **Tools & Platforms:** Git, GitHub, VS Code
   
-
-### 📊 GitHub Stats
-![Mahfooz's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahfoozalamcse&show_icons=true&theme=radical)
-
-### 🔝 Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahfoozalamcse&layout=compact&theme=radical)
-
 ### 🔥 Projects
 - **[[ProductsStore Project1](https://productsstore-uh46.onrender.com)](#)** - A brief description of your awesome project. Technologies used: **React, Node.js, MongoDB**.
 - **[[ByteLogic Project2](https://github.com/mahfoozalamcse/ByteLogic/tree/main)](#)** - A brief description of your awesome project. Technologies used: **React, Node.js, MongoDB**.
