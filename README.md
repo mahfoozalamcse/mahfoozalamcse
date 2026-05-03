@@ -70,7 +70,7 @@ I'm a passionate **Full-Stack Software Developer** with a keen interest in build
 
 | Project | Description | Technologies | Link |
 |---------|-------------|--------------|------|
-| **Research-AI** | AI-powered research assistant platform with advanced search capabilities | Java, Spring Boot, Spring Security, PostgreSQL, AWS (EC2, S3), Docker, Keycloak, JWT Authentication, RESTful API | [Repository](https://github.com/mahfoozalamcse/research-ai) |
+| **Research-AI** | AI-powered research assistant platform with advanced search capabilities | Java, Spring Boot, Spring Security, JWT Authentication, RESTful API | [Repository](https://github.com/mahfoozalamcse/research-ai) |
 | **TechOverflow** | Stack Overflow-like platform for tech questions and community discussions | Java, Spring Boot, Spring Data JPA, PostgreSQL, Docker, Keycloak, JWT, Email Notifications, Redis Caching | [Repository](https://github.com/mahfoozalamcse/techoverflow) |
 | **ReviewRestaurant** | Restaurant review and rating platform with user management and analytics | Java, Spring Boot, Spring Security, PostgreSQL, Docker, Keycloak, AWS, File Upload, RESTful API | [Repository](https://github.com/mahfoozalamcse/ReviewRestaurant) |
 
