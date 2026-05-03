@@ -7,12 +7,12 @@
 
 ### 🚀 About Me
 
-I'm a passionate **Full-Stack Software Developer** with a keen interest in building scalable applications and contributing to open-source projects. I specialize in modern web development with **JavaScript/Node.js** and enterprise-level applications with **Java Spring Boot**. I love exploring new technologies and applying them to solve real-world problems.
+I'm a passionate **Full-Stack Software Developer** with a keen interest in building scalable applications and contributing to open-source projects. I specialize in modern web development with **JavaScript/React.js** and enterprise-level applications with **Java Spring Boot**. I love exploring new technologies and applying them to solve real-world problems.
 
 - 🌱 I'm currently learning **advanced Data Structures, Algorithms, and Cloud Architecture**.
 - 👯 I'm looking to collaborate on **exciting open-source projects and innovative solutions**.
 - 🤔 I'm seeking help with **full-stack development best practices and system design**.
-- 💬 Ask me about **Java, JavaScript, Spring Boot, React, Node.js, AWS, and Cloud Computing**.
+- 💬 Ask me about **Java, JavaScript, Spring Boot, React, AWS, and Cloud Computing**.
 - 📫 Reach me at: **mahfoozalam1070@gmail.com**
 - ⚡ Fun fact: I enjoy **hiking and photography** during my free time.
 
