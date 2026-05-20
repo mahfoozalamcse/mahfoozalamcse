@@ -50,7 +50,7 @@ Data Structures • Algorithms • DBMS • Operating Systems • Computer Netwo
 AI-powered Chrome Extension designed to assist researchers and students with real-time content analysis, summarization, and academic research workflows.
 
 #### 🛠 Tech Stack
-Java` `Spring Boot` `JWT` `Gemini API` `Chrome Extension
+`Java` `Spring Boot` `JWT` `Gemini API` `Chrome Extension`
 
 #### ✨ Key Features
 - 🔍 AI-powered real-time summarization
@@ -71,7 +71,7 @@ Java` `Spring Boot` `JWT` `Gemini API` `Chrome Extension
 Production-grade full-stack blogging and discussion platform inspired by StackOverflow with secure authentication and scalable backend architecture.
 
 #### 🛠 Tech Stack
-Spring Boot` `React.js` `TypeScript` `PostgreSQL` `Docker` `JWT` `Spring Security
+`Spring Boot` `React.js` `TypeScript` `PostgreSQL` `Docker` `JWT` `Spring Security`
 
 #### ✨ Key Features
 - 🔐 JWT authentication & authorization
@@ -93,7 +93,7 @@ Spring Boot` `React.js` `TypeScript` `PostgreSQL` `Docker` `JWT` `Spring Securit
 Modern hotel booking platform with secure authentication, cloud image management, and room reservation functionality.
 
 #### 🛠 Tech Stack
-Spring Boot` `React.js` `MySQL` `AWS S3` `JWT` `Spring Security
+`Spring Boot` `React.js` `MySQL` `AWS S3` `JWT` `Spring Security`
 
 #### ✨ Key Features
 - 🏨 Hotel room booking engine
