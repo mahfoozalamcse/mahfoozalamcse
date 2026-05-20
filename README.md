@@ -39,13 +39,73 @@ Data Structures • Algorithms • DBMS • Operating Systems • Computer Netwo
 | **ProductsStore** | E-commerce platform with product catalog and shopping cart | React, Node.js, MongoDB, Express | [Live](https://productsstore-uh46.onrender.com) \| [Repository](https://github.com/mahfoozalamcse/ProductsStore) |
 
 
-#### **☕ Java Spring Boot Projects**
 
-| Project | Description | Technologies | Link |
-|---------|-------------|--------------|------|
-| **Research-AI** | AI-powered research assistant platform with advanced search capabilities | Java, Spring Boot, Spring Security, JWT Authentication, RESTful API | [Repository](https://github.com/mahfoozalamcse/research-ai) |
-| **TechOverflow** | Stack Overflow-like platform for tech questions and community discussions | Java, Spring Boot, Spring Data JPA, PostgreSQL, Docker, Keycloak, JWT, Email Notifications, Redis Caching | [Repository](https://github.com/mahfoozalamcse/techoverflow) |
-| **ReviewRestaurant** | Restaurant review and rating platform with user management and analytics | Java, Spring Boot, Spring Security, PostgreSQL, Docker, Keycloak, AWS, File Upload, RESTful API | [Repository](https://github.com/mahfoozalamcse/ReviewRestaurant) |
+## 🚀 Featured Projects
+
+---
+
+### 🔹 Research-AI  
+### AI-Powered Research Chrome Extension
+
+AI-powered Chrome Extension designed to assist researchers and students with real-time content analysis, summarization, and academic research workflows.
+
+#### 🛠 Tech Stack
+Java` `Spring Boot` `JWT` `Gemini API` `Chrome Extension
+
+#### ✨ Key Features
+- 🔍 AI-powered real-time summarization
+- 📚 Automatic citation generation
+- ⚡ Smart academic search automation
+- 🔐 Secure JWT authentication
+- 🌐 REST API integration
+- 🧠 Research workflow optimization
+
+#### 🔗 Links
+- 🚀 Repository: [Research-AI](https://github.com/mahfoozalamcse/research-ai)
+
+---
+
+### 🔹 TechOverflow  
+### Full-Stack Blogging Platform
+
+Production-grade full-stack blogging and discussion platform inspired by StackOverflow with secure authentication and scalable backend architecture.
+
+#### 🛠 Tech Stack
+Spring Boot` `React.js` `TypeScript` `PostgreSQL` `Docker` `JWT` `Spring Security
+
+#### ✨ Key Features
+- 🔐 JWT authentication & authorization
+- 👥 Role-Based Access Control (RBAC)
+- ⚡ Optimized SQL queries & indexing
+- 🐳 Dockerized multi-service deployment
+- 🔄 RESTful API architecture
+- 📦 Spring Data JPA integration
+- 🛡 Secure backend with Spring Security
+
+#### 🔗 Links
+- 🚀 Repository: [TechOverflow](https://github.com/mahfoozalamcse/techoverflow)
+
+---
+
+### 🔹 LuxoraStay  
+### Full-Stack Hotel Booking System
+
+Modern hotel booking platform with secure authentication, cloud image management, and room reservation functionality.
+
+#### 🛠 Tech Stack
+Spring Boot` `React.js` `MySQL` `AWS S3` `JWT` `Spring Security
+
+#### ✨ Key Features
+- 🏨 Hotel room booking engine
+- 📅 Room availability management
+- 🔐 Secure JWT authentication
+- ☁ AWS S3 image upload integration
+- ⚡ 15+ REST APIs
+- 👨‍💼 Admin & User role management
+- 🗄 MySQL database integration
+
+#### 🔗 Links
+- 🚀 Repository: [LuxoraStay](https://github.com/mahfoozalamcse/luxorastay)
 
 ---
 
