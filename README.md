@@ -63,8 +63,7 @@ I'm a passionate **Full-Stack Software Developer** with a keen interest in build
 | Project | Description | Technologies | Link |
 |---------|-------------|--------------|------|
 | **ProductsStore** | E-commerce platform with product catalog and shopping cart | React, Node.js, MongoDB, Express | [Live](https://productsstore-uh46.onrender.com) \| [Repository](https://github.com/mahfoozalamcse/ProductsStore) |
-| **ByteLogic** | Interactive programming learning platform | React, Node.js, MongoDB, Express | [Repository](https://github.com/mahfoozalamcse/ByteLogic) |
-| **QuickNotes** | Fast and efficient note-taking application | React, Node.js, MongoDB | [Repository](https://github.com/mahfoozalamcse/QuickNotes) |
+
 
 #### **☕ Java Spring Boot Projects**
 
