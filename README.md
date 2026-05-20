@@ -111,9 +111,11 @@ Modern hotel booking platform with secure authentication, cloud image management
 
 ### 📊 GitHub Statistics
 
-![Mahfooz's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahfoozalamcse&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mahfoozalamcse&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahfoozalamcse&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mahfoozalamcse&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=mahfoozalamcse&theme=tokyonight)
 
 ---
 
@@ -127,15 +129,41 @@ Modern hotel booking platform with secure authentication, cloud image management
 
 ---
 
-### 💼 What I'm Looking For
 
-- **Freelance/Contract Work:** Building scalable web applications
-- **Full-Stack Projects:** From concept to deployment
-- **Open Source Contributions:** Collaborating with the community
-- **Mentorship:** Both as a mentor and mentee
+## 💼 Open To Opportunities
+
+I’m actively looking for opportunities where I can contribute, learn, and build impactful software products.
+
+### 🚀 Interested In
+- 💻 Full-Stack Development Projects (Java + React)
+- ⚙ Backend Engineering with Spring Boot & Microservices
+- ☁ Cloud & Scalable System Development
+- 🔓 Open Source Contributions
+- 🤝 Freelance & Contract-Based Development
+- 📚 Collaborating with Developers & Tech Communities
+
+### 🛠 Core Expertise
+- Java, Spring Boot, REST APIs
+- React.js, MERN Stack
+- MySQL, MongoDB, PostgreSQL
+- JWT Authentication & Spring Security
+- Docker, Git, GitHub, AWS
+- Data Structures & System Design
 
 ---
 
-Thanks for visiting my profile! Feel free to reach out if you want to connect or collaborate on a project. 🚀
+## 🌱 Currently Focused On
+- Advanced Backend Development
+- Scalable System Design
+- Microservices Architecture
+- DevOps & Cloud Deployment
+- Building Production-Grade Applications
 
-⭐ If you find my work interesting, don't forget to star my repositories!
+---
+
+## 📫 Let's Connect
+- 💼 Open to Software Engineer, Backend Developer, and Full-Stack Developer roles
+- 🤝 Always excited to collaborate on innovative projects and startup ideas
+
+⭐ If you like my work, consider starring my repositories and following my journey!
+```
