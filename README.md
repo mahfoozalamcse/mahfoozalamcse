@@ -1,58 +1,32 @@
-## Hi there, I'm Mahfooz Alam! 👋  
+# Hi, I'm Mahfooz Alam 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=mahfoozalamcse&color=blue)
-[![GitHub followers](https://img.shields.io/github/followers/mahfoozalamcse?style=social)](https://github.com/mahfoozalamcse)
+### Java Backend Developer | Spring Boot | REST APIs | Microservices
 
----
+Backend-focused Software Engineer skilled in building scalable applications using Java, Spring Boot, Spring Security, MySQL, MongoDB, Docker, and AWS.
 
-### 🚀 About Me
-
-I'm a passionate **Full-Stack Software Developer** with a keen interest in building scalable applications and contributing to open-source projects. I specialize in modern web development with **JavaScript/React.js** and enterprise-level applications with **Java Spring Boot**. I love exploring new technologies and applying them to solve real-world problems.
-
-- 🌱 I'm currently learning **advanced Data Structures, Algorithms, and Cloud Architecture**.
-- 👯 I'm looking to collaborate on **exciting open-source projects and innovative solutions**.
-- 🤔 I'm seeking help with **full-stack development best practices and system design**.
-- 💬 Ask me about **Java, JavaScript, Spring Boot, React, AWS, and Cloud Computing**.
-- 📫 Reach me at: **mahfoozalam1070@gmail.com**
-- ⚡ Fun fact: I enjoy **hiking and photography** during my free time.
+- 🔥 Solved 325+ DSA problems on LeetCode
+- ⚡ Built scalable full-stack and backend applications
+- 🚀 Focused on Backend Engineering & System Design
+- 📍 Open to Software Engineer & Java Backend Developer roles
 
 ---
 
-### 🛠️ Technical Skills
+## 🛠 Tech Stack
 
-#### **Languages**
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+### Backend
+Java • Spring Boot • Spring Security • REST APIs • JWT • Hibernate • JPA • Microservices
 
-#### **Frontend Development**
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+### Databases
+MySQL • PostgreSQL • MongoDB • Redis
 
-#### **Backend Development**
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=for-the-badge&logo=spring-boot&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
+### Frontend
+React.js • TypeScript • JavaScript • Tailwind CSS
 
-#### **Databases**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-%2300758F.svg?style=for-the-badge&logo=mysql&logoColor=white)
+### DevOps & Cloud
+Docker • AWS • GitHub Actions • Maven
 
-#### **Cloud & DevOps**
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-
-#### **Authentication & Security**
-![Keycloak](https://img.shields.io/badge/Keycloak-%23C71C36.svg?style=for-the-badge&logo=keycloak&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-%23000000.svg?style=for-the-badge&logo=json-web-tokens&logoColor=white)
-
-#### **Tools & Platforms**
-![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Maven](https://img.shields.io/badge/Maven-%23C71C36.svg?style=for-the-badge&logo=apache-maven&logoColor=white)
+### CS Fundamentals
+Data Structures • Algorithms • DBMS • Operating Systems • Computer Networks
 
 ---
 
