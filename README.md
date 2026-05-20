@@ -105,7 +105,7 @@ Modern hotel booking platform with secure authentication, cloud image management
 - 🗄 MySQL database integration
 
 #### 🔗 Links
-- 🚀 Repository: [LuxoraStay]([https://github.com/mahfoozalamcse/luxorastay](https://github.com/mahfoozalamcse/luxorastay-fullstack))
+- 🚀 Repository: [LuxoraStay](https://github.com/mahfoozalamcse/luxorastay-fullstack)
 
 ---
 
